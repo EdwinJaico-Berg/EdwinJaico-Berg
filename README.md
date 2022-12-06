@@ -1,5 +1,3 @@
-Hi, I’m  and I'm partiularly interested in Python. Currently learning C++.
-
 Welcome to my GitHub profile! I am @EdwinJaico-Berg and am particularly interested in data science, Python, and (learning) C++.
 
 On my GitHub profile, you will find a variety of projects that showcase my skills and interests. For example, I have worked on data science projects using Python and its popular libraries, such as pandas, scikit-learn, and PyTorch. I have also created some small C++ projects, such as a calculator, and Python projects using Dash, Flask, and other libraries.
